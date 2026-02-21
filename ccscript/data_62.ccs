@@ -1,0 +1,9 @@
+/*
+ * EarthBound Text Dump
+ * Time: 11:28:26 - 21/02/2026
+ * Generated using CCScriptWriter.
+ */
+
+command e(label) "{long label}"
+
+// Text Data
